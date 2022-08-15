@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/earnytech" target="blank"><img src="https://img.shields.io/twitter/follow/earnytech?logo=twitter&style=for-the-badge" alt="earnytech" /></a> </p>
 
-- 🌱 I’m currently learning **Js, HTML, CSS, REACT**
+- 🌱 I’m currently learning **Js, HTML, CSS, RUBY, REACT**
 
 - 👯 I’m looking to collaborate on **new Projects**
 
