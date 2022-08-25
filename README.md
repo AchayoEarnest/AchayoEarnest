@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **new Projects**
 
-- 💬 Ask me about **Js**
+- 💬 Ask me about **Js, Ruby, React**
 
 - 📫 How to reach me **earnytech@live.com**
 
