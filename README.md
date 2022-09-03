@@ -48,7 +48,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achayoearnest&show_icons=true&locale=en&layout=compact" alt="achayoearnest" /></p>&nbsp;
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achayoearnest&show_icons=true&locale=en&layout=compact" alt="achayoearnest" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achayoearnest&show_icons=true&locale=en" alt="achayoearnest" /></p>
 
