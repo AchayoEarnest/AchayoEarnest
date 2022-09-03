@@ -1,12 +1,17 @@
-<h1 align="center">Hi 👋, I'm Earnest</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achayoearnest&label=Profile%20views&color=0e75b6&style=flat" alt="achayoearnest" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achayoearnest" alt="achayoearnest" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/earnytech" target="blank"><img src="https://img.shields.io/twitter/follow/earnytech?logo=twitter&style=for-the-badge" alt="earnytech" /></a> </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/allanmutisya">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC8Q788PHLIaED2E8efDJ_Pg">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/Allanmutisya4">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 - 🌱 I’m currently learning **Js, HTML, CSS, RUBY, REACT**
 
