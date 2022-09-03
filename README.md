@@ -18,7 +18,7 @@
 ### 🧞 About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi-Kenya.
 
-- :telescope: I’m working as a Data Scientist and contributing to frontend and backend for building web applications and data related softwares and tools.
+- :telescope: I’m learning new things everyday and contributing to frontend and backend for building web applications and data related softwares and tools.
 
 - :seedling: Exploring Technical Content Writing and Web3.
 
