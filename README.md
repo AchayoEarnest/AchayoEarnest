@@ -64,6 +64,3 @@ I am a Data Scientist and a Software Developer <img src="https://media.giphy.com
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achayoearnest&show_icons=true&locale=en" alt="achayoearnest" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achayoearnest&" alt="achayoearnest" /></p>
-
-
-[![Earnest's github activity graph](https://activity-graph.herokuapp.com/graph?username=allanstar-byte&theme=react-dark)](https://github.com/AchayoEarnest-readme-activity-graph)
