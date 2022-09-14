@@ -28,7 +28,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - ⚡ Fun fact **I love programming**
 
-- :mailbox:How to reach me:  earnytech@live.com / +254202486428 / +254725486428
+- :mailbox:How to reach me:  earnytech@live.com
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
