@@ -15,6 +15,8 @@
 
 ---
 
+<h3 align="center">Hey there!<h3>
+
 ### 🧞 About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi-Kenya.
 
