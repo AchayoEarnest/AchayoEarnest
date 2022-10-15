@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&w=600" width="100" height="175px" />
+  <img src="https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&w=600" width="60%" height="175px" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/earnest-achayo-87929580">
