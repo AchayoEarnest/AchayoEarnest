@@ -48,8 +48,8 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=achayoearnest&show_icons=true&locale=en&layout=compacttheme=dark#" alt="achayoearnest" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=achayoearnest&show_icons=true&locale=en&layout=compact&theme=dark#" alt="achayoearnest" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achayoearnest&show_icons=true&locale=entheme=dark#" alt="achayoearnest" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achayoearnest&show_icons=true&locale=en&theme=dark#" alt="achayoearnest" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achayoearnest&" alt="achayoearnesttheme=dark#" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achayoearnest&" alt="achayoearnest&theme=dark#" /></p>
