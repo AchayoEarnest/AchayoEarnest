@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://imgur.com/4cOBTH4" width="60%" height="300px" border_radius= "50%"/>
+  <img src="https://imgur.com/4cOBTH4" width="100%" height="300px" border_radius= "50%"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/earnest-achayo-87929580">
