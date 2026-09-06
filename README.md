@@ -35,7 +35,8 @@ I'm a full-stack software engineer based in Nairobi, Kenya, building end-to-end 
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Cahayo BI** | AI-ready business intelligence platform — connect data sources, model it, and build interactive dashboards | Next.js · Node · PostgreSQL | [Live Demo](https://cahayo-bi-frontend.onrender.com) |
+| **Cahayo BI** | AI-ready business intelligence platform — connect data sources, model it, and build interactive dashboards | Next.js · Node · PostgreSQL | [Live Demo](https://cahayo-bi-frontend.onrender.com) · [Code](https://github.com/AchayoEarnest/cahayo-bi) |
+| **ITSM Platform** | Microservices IT Service Desk & engineering operations platform — event-driven, one database per service | Elixir/Phoenix · Next.js 15 · PostgreSQL · Redis | [Code](https://github.com/AchayoEarnest/itsm-platform) |
 | **DAAS** | Hospital & clinic analytics platform for healthcare data insights | Next.js · TypeScript | [Live Demo](https://daas-weld.vercel.app) · [Code](https://github.com/AchayoEarnest/DAAS) |
 | **Kenest Jikoni** | All-in-one hotel + kitchen management platform with real-time housekeeping and reservations | Elixir/Phoenix · Next.js 15 · PostgreSQL · Redis | [Live Demo](https://kenest-jikoni.vercel.app) · [Code](https://github.com/AchayoEarnest/kenest-jikoni) |
 | **Pharmly** | Inventory management system with point-of-sale for pharmacies and retail | Next.js · PostgreSQL | [Live Demo](https://pharmly-tau.vercel.app) · [Code](https://github.com/AchayoEarnest/pharmly) |
