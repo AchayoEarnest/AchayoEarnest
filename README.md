@@ -43,37 +43,14 @@ I'm a full-stack software engineer based in Nairobi, Kenya, building end-to-end 
 <p><a href="https://cahayo-bi-frontend.onrender.com">Live Demo</a> · <a href="https://github.com/AchayoEarnest/cahayo-bi">Code</a></p>
 </td>
 <td width="50%" valign="top">
-<img src="assets/screenshots/daas.jpg" width="100%" alt="DAAS screenshot"/>
-<h4>DAAS</h4>
-<p>Hospital &amp; clinic analytics platform for healthcare data insights</p>
-<p><sub><b>Stack:</b> Next.js · TypeScript</sub></p>
-<p><a href="https://daas-weld.vercel.app">Live Demo</a> · <a href="https://github.com/AchayoEarnest/DAAS">Code</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="assets/screenshots/kenest-jikoni.jpg" width="100%" alt="Kenest Jikoni screenshot"/>
-<h4>Kenest Jikoni</h4>
-<p>All-in-one hotel + kitchen management platform with real-time housekeeping and reservations</p>
-<p><sub><b>Stack:</b> Elixir/Phoenix · Next.js 15 · PostgreSQL · Redis</sub></p>
-<p><a href="https://kenest-jikoni.vercel.app">Live Demo</a> · <a href="https://github.com/AchayoEarnest/kenest-jikoni">Code</a></p>
-</td>
-<td width="50%" valign="top">
-<img src="assets/screenshots/pharmly.jpg" width="100%" alt="Pharmly screenshot"/>
-<h4>Pharmly</h4>
-<p>Inventory management system with point-of-sale for pharmacies and retail</p>
-<p><sub><b>Stack:</b> Next.js · PostgreSQL</sub></p>
-<p><a href="https://pharmly-tau.vercel.app">Live Demo</a> · <a href="https://github.com/AchayoEarnest/pharmly">Code</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <img src="assets/screenshots/cahayo-music.jpg" width="100%" alt="Cahayo Music screenshot"/>
 <h4>Cahayo Music</h4>
 <p>Music discovery platform built on real data — YouTube Data API + Wikidata/MusicBrainz artist bios, no scraping or fabricated content</p>
 <p><sub><b>Stack:</b> Next.js · YouTube API · Wikidata</sub></p>
 <p><a href="https://cahayo-music.vercel.app">Live Demo</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="assets/screenshots/cahayo-mac-os-portfolio.jpg" width="100%" alt="Cahayo Mac OS Portfolio screenshot"/>
 <h4>Cahayo Mac OS Portfolio</h4>
@@ -81,8 +58,6 @@ I'm a full-stack software engineer based in Nairobi, Kenya, building end-to-end 
 <p><sub><b>Stack:</b> React · CSS</sub></p>
 <p><a href="https://cahayo-mac-os-portfolio.vercel.app">Live Demo</a> · <a href="https://github.com/AchayoEarnest/cahayo_mac_os_portfolio">Code</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="assets/screenshots/learnflow.jpg" width="100%" alt="LearnFlow screenshot"/>
 <h4>LearnFlow</h4>
