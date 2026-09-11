@@ -82,6 +82,15 @@ I'm a full-stack software engineer based in Nairobi, Kenya, building end-to-end 
 <p><a href="https://cahayo-mac-os-portfolio.vercel.app">Live Demo</a> · <a href="https://github.com/AchayoEarnest/cahayo_mac_os_portfolio">Code</a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/screenshots/learnflow.jpg" width="100%" alt="LearnFlow screenshot"/>
+<h4>LearnFlow</h4>
+<p>Full-stack LMS — courses, quizzes, capstone projects with instructor rubric grading, M-Pesa Daraja payments, PDF certificate generation, and real-time chat over Phoenix Channels</p>
+<p><sub><b>Stack:</b> Elixir/Phoenix · Next.js · PostgreSQL · Oban</sub></p>
+<p><a href="https://learnflow-frontend-vmal.onrender.com">Live Demo</a> · <a href="https://github.com/AchayoEarnest/learnflow">Code</a></p>
+</td>
+</tr>
 </table>
 
 | Project | Description | Stack | Links |
