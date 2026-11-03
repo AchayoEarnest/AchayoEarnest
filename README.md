@@ -66,6 +66,16 @@ I'm a full-stack software engineer based in Nairobi, Kenya, building end-to-end 
 <p><a href="https://learnflow-frontend-vmal.onrender.com">Live Demo</a> · <a href="https://github.com/AchayoEarnest/learnflow">Code</a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/screenshots/office-survival.jpg" width="100%" alt="Office Survival Challenge screenshot"/>
+<h4>Office Survival Challenge</h4>
+<p>Comedy office-survival game — walk a Phaser office, juggle 10 chaotic coworkers, 89 branching events, 5 mini-games and 12 endings, in English, Kiswahili and Sheng. Shared daily challenge with server-verified leaderboards</p>
+<p><sub><b>Stack:</b> Next.js · Phaser · Elixir/Phoenix · PostgreSQL · Claude API</sub></p>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 | Project | Description | Stack | Links |
