@@ -74,6 +74,10 @@ I'm a full-stack software engineer based in Nairobi, Kenya, building end-to-end 
 <p><sub><b>Stack:</b> Next.js · Phaser · Elixir/Phoenix · PostgreSQL · Claude API</sub></p>
 </td>
 <td width="50%" valign="top">
+<img src="assets/screenshots/daktari-online.jpg" width="100%" alt="Daktari Online screenshot"/>
+<h4>Daktari Online</h4>
+<p>Connected digital healthcare platform for Kenya — verified doctors, WebRTC video consultations, home visits with GPS check-in, signed e-prescriptions matched to pharmacy stock, lab bookings, consent-controlled health records, M-Pesa payments and an AI assistant that escalates emergencies first</p>
+<p><sub><b>Stack:</b> Next.js · Elixir/Phoenix · PostgreSQL · WebRTC · M-Pesa · Claude API</sub></p>
 </td>
 </tr>
 </table>
