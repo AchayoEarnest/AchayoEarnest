@@ -80,6 +80,15 @@ I'm a full-stack software engineer based in Nairobi, Kenya, building end-to-end 
 <p><sub><b>Stack:</b> Next.js · Elixir/Phoenix · PostgreSQL · WebRTC · M-Pesa · Claude API</sub></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/screenshots/vetlink-africa.jpg" width="100%" alt="VetLink Africa screenshot"/>
+<h4>VetLink Africa</h4>
+<p>Veterinary practice platform for Kenya — find verified vets by distance and species, book clinic, home or farm visits, keep each animal's health record in one timeline, chat with your vet in real time, and write SOAP visit reports from a vet workspace</p>
+<p><sub><b>Stack:</b> Next.js · Elixir/Phoenix · PostgreSQL/PostGIS · Phoenix Channels</sub></p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 | Project | Description | Stack | Links |
